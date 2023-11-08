@@ -1,7 +1,12 @@
-__pycache
+__pycache__
 .cog
 blip-cache
 blip-proc-cache
 checkpoint
 model-cache
 swin2sr-cache
+temp
+temp_in
+training_out
+output.tar
+trained_model.tar

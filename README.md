@@ -8,7 +8,7 @@ First, download the pre-trained weights:
 
 Then, you can run predictions:
 
-    cog train -i input_images=@zeke.zip -i use_face_detection_instead=True
+    cog predict -i input_images=@zeke.zip -i use_face_detection_instead=True
 
 ## Example:
 
